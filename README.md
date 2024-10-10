@@ -33,7 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainsahab0210&" alt="jainsahab0210" /></p>
 
 
-
 <h1 align="center">Hi 👋, I'm Aryan Jain</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
@@ -52,6 +51,16 @@
 - 🔭 I’m currently working on [ALCATRAZ 2.O](https://github.com/jainsahab0120/ALCATRAZ-2.O)
 - 👨‍💻 All my projects are available at [My GitHub](https://github.com/jainsahab0120)
 - 📫 How to reach me **aryan.ajtdl156@gmail.com**
+
+---
+
+<h2 align="center">📄 My Resume</h2>
+
+<p align="center">
+  <a href="https://aryan-jain-port-folio-with-react.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Now-brightgreen?style=for-the-badge" alt="Resume" />
+  </a>
+</p>
 
 ---
 
@@ -118,4 +127,5 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainsahab0120" alt="GitHub Streak" />
 </p>
+
 
