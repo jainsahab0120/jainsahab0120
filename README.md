@@ -12,8 +12,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **CSS, JavaScript, and Java**
-- 🔭 I’m currently working on [ALCATRAZ 2.O](https://github.com/jainsahab0120/ALCATRAZ-2.O)
+- 🌱 I’m currently learning **Advace Java and new Web Technologies **
+- 🔭 I’m currently working on [BackEnd Project]()
 - 👨‍💻 All my projects are available at [My GitHub](https://github.com/jainsahab0120)
 - 📫 How to reach me **aryan.ajtdl156@gmail.com**
 
