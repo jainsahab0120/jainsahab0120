@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Advanced Java**, **Spring Boot**, and **Modern Web Technologies**  
 - 🔭 Working on a **Backend Project** to improve scalability and performance  
-- 💻 All my projects are available here → [**My GitHub**](https://github.com/jainsahab0120)  
+- 💻 Check out all my projects → [**My GitHub Repositories**](https://github.com/jainsahab0120)  
 - 📫 Reach me at **aryan.ajtdl156@gmail.com**  
 - ⚡ Fun fact: *I enjoy turning ideas into working products.*
 
@@ -36,13 +36,13 @@
 <h2 align="center">🚀 Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-C-blue?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Java-red?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Database-MySQL-lightgrey?style=flat&logo=mysql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Tools-Python-darkgreen?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
   <a href="https://instagram.com/jainsahab_0210" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.hackerrank.com/@aryan_jain_0210" target="_blank">
+  <a href="https://www.hackerrank.com/aryan_jain_0210" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/jainsahab_0210" target="_blank">
@@ -104,9 +104,12 @@
 
 ---
 
-<p align="center"><i>“Code with logic, design with vision, and build with purpose.”</i></p>
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jainsahab0120/jainsahab0120/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+---
+
+<p align="center"><i>“Code with logic, design with vision, and build with purpose.”</i></p>
