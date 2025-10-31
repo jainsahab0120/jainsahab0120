@@ -105,3 +105,8 @@
 ---
 
 <p align="center"><i>“Code with logic, design with vision, and build with purpose.”</i></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jainsahab0120/jainsahab0120/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
